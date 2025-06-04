@@ -21,6 +21,7 @@ This Arduino project displays a dynamic analog-style gauge using an ST7789 240x2
 | DC     | 21     |
 | MOSI   | Board SPI MOSI |
 | SCK    | Board SPI SCK  |
+| BLK    | 3.3V    |
 | GND    | GND    |
 | VCC    | 3.3V |
 
